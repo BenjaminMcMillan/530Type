@@ -1,4 +1,14 @@
+body {
+	font-family: stella;
+	font-size: 10em;
+}
+
 #title {
   font-size: 300%;
   color: red;
+}
+
+@font-face {
+	font-family: stella
+	src: url(resource/font/stella-thick.woff);
 }
