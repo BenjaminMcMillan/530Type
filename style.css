@@ -1,5 +1,5 @@
 body {
-	font-family: stella;
+	font-family: stella thick;
 	font-size: 10em;
 }
 
@@ -9,6 +9,8 @@ body {
 }
 
 @font-face {
-	font-family: stella
-	src: url(resource/font/stella-thick.woff);
+	font-family: "stella thick";
+	src: 
+url("resource/font/stella-thick.woff") format("woff"),
+url("resouce/font/stella-thick.otf") format("opentype");
 }
