@@ -8,11 +8,13 @@ body {
 #title {
   font-size: 300%;
   color: red;
+  margin-top: 10%;
+  margin-bottom: 10%;
 }
 
 @font-face {
 	font-family: "stella thick";
-	src: 
+	src:
 url("resource/font/stella-thick.woff") format("woff"),
 url("resouce/font/stella-thick.otf") format("opentype");
 }
